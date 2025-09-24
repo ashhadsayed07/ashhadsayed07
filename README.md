@@ -1,27 +1,26 @@
-<!-- Banner -->
-<p align="center">
-  <img src="/assets/ForGithub.png" alt="Banner" width="100%" />
-</p>
-
----
-
 ## 👋 Hey there, I'm Ashhad Sayed  
 
-🎓 Final-year Computer Science student at **PES University**  
-💡 Interested in **AI, Distributed Systems, Cloud, and Databases**  
-🚀 Actively building projects with **MERN, ML/DL, and System Design**  
-📚 Always exploring **new technologies & research in Computer Science**
+🎓 Final-year B.Tech Computer Science Engineering student at **PES University**  
+💡 Passionate about **AI, Machine Learning, and Full-Stack Development**  
+🚀 Experienced in building **websites and full-stack applications** using **React, Node.js, Python, and Flutter**  
+📚 Continuously exploring **new technologies, research, and creative solutions**  
+
+Over the past few years, I’ve worked on a variety of projects, from **AI-driven resume analyzers** to **neural networks and real-time applications**, which strengthened my foundation in **algorithms, data structures, system design, and full-stack development**. I enjoy solving problems through code and have developed a deep interest in the broader world of software engineering.  
+
+Outside of coding, I love to **unwind and recharge** through entertainment—binge-watching series and movies, exploring different genres, and enjoying storytelling. I also enjoy brainstorming ideas, experimenting with side projects, and collaborating with peers on creative solutions. Balancing work and leisure helps me stay motivated and brings fresh perspectives to the problems I tackle in technology.  
+
+I’m endlessly curious about how software and AI work. Lately, I’ve been diving deep into **AI and Machine Learning**, experimenting with different AI agents, understanding their inner workings, and exploring how they can be applied to solve real-world problems. I’m fascinated by **generative AI, model optimization, and intelligent systems**, and I love learning by tinkering, experimenting, and building. I’m excited to keep exploring, developing new skills, and contributing to innovative projects in **software, AI, and ML**.
 
 ---
 
 ## 🛠️ Technical Skills  
 
 ### 🚀 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🤖 Artificial Intelligence & Data
