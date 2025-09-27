@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Ashhad Sayed  
+## Hi there, I'm Ashhad Sayed  
 
 🎓 Final-year B.Tech Computer Science Engineering student at **PES University**  
 💡 Passionate about **AI, Machine Learning, and Full-Stack Development**  
